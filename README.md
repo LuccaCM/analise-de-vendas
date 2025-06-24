@@ -85,5 +85,7 @@ nginx
 Copiar
 Editar
 Analise de Vendas.ipynb
-👨‍💻 Autor
+
+````
+## 👨‍💻 Autor
 Lucca de Carvalho Moraes
