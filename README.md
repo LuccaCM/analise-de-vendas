@@ -71,17 +71,11 @@ analise-de-vendas/
 
 ```bash
 git clone https://github.com/LuccaCM/analise-de-vendas.git
+
 Abra o Jupyter Notebook:
-
-bash
-Copiar
-Editar
 jupyter notebook
-Execute o arquivo:
 
-nginx
-Copiar
-Editar
+Execute o arquivo:
 Analise de Vendas.ipynb
 
 ````
