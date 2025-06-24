@@ -6,12 +6,12 @@ O foco da análise é entender o comportamento das vendas ao longo do tempo, ide
 ---
 
 ## 📂 Estrutura do Projeto
-
+```bash
 analise-de-vendas/
 ├── Analise de Vendas.ipynb # Notebook Jupyter com toda a análise
 ├── vendas.csv # Base de dados utilizada na análise
 └── README.md # Este arquivo de descrição
-
+````
 yaml
 Copiar
 Editar
