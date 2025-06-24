@@ -12,9 +12,7 @@ analise-de-vendas/
 ├── vendas.csv # Base de dados utilizada na análise
 └── README.md # Este arquivo de descrição
 ````
-yaml
-Copiar
-Editar
+
 
 ---
 
